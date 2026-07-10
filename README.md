@@ -101,7 +101,7 @@ Each model was evaluated and compared based on its performance. **Random Forest 
 1. Clone this repository:
    
    ```bash
-   git clone www.github.com/Purvapatel4725/Smoke-Detection-Model
+   git clone www.github.com/purva-patel/Smoke-Detection-Model
    cd Smoke-Detection-Model
    ```
 2. Open the Jupyter Notebook:
